@@ -1,6 +1,6 @@
 local platform_one = game.Workspace.PlatformOne
 local platform_two = game.Workspace.PlatformTwo
-local platform_three = game.Workspace.PlatformTwo
+local platform_three = game.Workspace.PlatformThree
 
 -- Produces 1, 2, or 3
 local random_number = math.random(1, 3)
